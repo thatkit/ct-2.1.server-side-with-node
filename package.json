@@ -1,0 +1,22 @@
+{
+  "name": "2.1.-server-side-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatkit/ct-2.1.server-side-with-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatkit/ct-2.1.server-side-with-node/issues"
+  },
+  "homepage": "https://github.com/thatkit/ct-2.1.server-side-with-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
